@@ -1,23 +1,23 @@
-# *Solucion Reto 1 - Challenge 2 Bootcamp DEVOPS*
+# **Solucion Reto 1 - Challenge 2 Bootcamp DEVOPS**
 
 ---
-## *Levantar contenedor*
+## **Levantar contenedor**
 
-[Levantar contenedor](imagen1.png)
-
----
-## *Contenedor Arriba*
-
-[Contenedor Arriba](imagen2.png)
+[Levantar contenedor](img/imagen1.png)
 
 ---
-## *Imagenes local*
+## **Contenedor Arriba**
 
-[Imagenes Local](imagen3.png)
+[Contenedor Arriba](img/imagen2.png)
 
-## *Eliminacion del contenedor*
+---
+## **Imagenes local**
 
-[Eliminacion del contenedor](imagen4.png)
+[Imagenes Local](img/imagen3.png)
+
+## **Eliminacion del contenedor**
+
+[Eliminacion del contenedor](img/imagen4.png)
 
 
 

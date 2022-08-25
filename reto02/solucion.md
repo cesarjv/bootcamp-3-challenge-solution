@@ -1,4 +1,4 @@
-# **Solucion Reto 2 - Challenge 2 Bootcamp DEVOPS**
+# **Solucion Reto 2 - Challenge Bootcamp DEVOPS**
 
 ---
 ## **Conexion BD y BD creada**
